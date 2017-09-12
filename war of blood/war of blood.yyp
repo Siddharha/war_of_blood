@@ -87,6 +87,22 @@
             }
         },
         {
+            "Key": "6b1c8d51-a125-4ddd-b5a1-10d5ba1d192f",
+            "Value": {
+                "id": "51ed5756-cf7a-4209-a62b-d2d51d1fec7d",
+                "resourcePath": "sprites\\viewColider\\viewColider.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "72cbf3ce-a051-487b-ae30-85e2dec3c756",
+            "Value": {
+                "id": "79aa447d-d0f1-44a7-bb56-2828763d2843",
+                "resourcePath": "objects\\obPlayer\\obPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e71080d-1d11-4c52-a801-de4200a4ea11",
             "Value": {
                 "id": "e0b18f8d-148f-439c-8f9b-3d86edc66e1d",
@@ -148,6 +164,14 @@
                 "id": "819bab5b-7c74-4dd0-b097-c3f58a612c3c",
                 "resourcePath": "views\\ab0c5da8-26fa-4cdd-abae-5ebabc07ba84.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bbeaded5-515d-4667-b0ee-fce47491673f",
+            "Value": {
+                "id": "106afc7b-5ba3-4060-8d85-610d2e30c29d",
+                "resourcePath": "objects\\obCollision\\obCollision.yy",
+                "resourceType": "GMObject"
             }
         },
         {
